@@ -1,0 +1,38 @@
+title: Welcome to Denitsa's Game Development Portfolio
+author:
+  name: Denitsa Assova
+  email: deni.assova@gmail.com
+
+description: >
+  Hello there! I'm Denitsa, a Game Developer with a passion for combining Mixed Reality and games. 
+  In this portfolio, you'll find a little bit about me and a collection of my work.
+
+# Build settings
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Theme-specific settings
+header_pages:
+  - _pages/frontpage.md
+  - _pages/about.md
+  - _pages/education.md
+  - _pages/workexperience.md
+  - _pages/projects.md
+  - _pages/cv.md
+
+include:
+    - _pages
+    - assets
+
+minima:
+  skin: classic
+  date_format: "%b %-d, %Y"
+  social_links:
+    - { platform: github,         user_url: "https://github.com/DenitsaAssova" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/denitsa-assova-63070b23b/" }
+    - { platform: telegram,       user_url: "https://t.me/denitsa_assova" }
+
+kramdown:
+  parse_block_html: true
