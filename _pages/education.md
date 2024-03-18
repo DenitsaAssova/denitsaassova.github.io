@@ -16,7 +16,7 @@ The topic of the master thesis is "A VR Travel Application for Elderly People Fo
 
 ![npmg](/assets/images/npmg.png){: .image height="95px" width="95px"}
 
-**Secondary Education** in Mathematics and Informatics from the National Gymnasium of Natural Sciences and Mathematics "Academician Lyubomir Chakalov" (May 2018, Bulgaria). 
+**Secondary Education** in Mathematics and Informatics from the National High School of Science and Mathematics "Academician Lyubomir Chakalov" (May 2018, Bulgaria). 
 Graduated with an award for high achievements.
 
 <style>
