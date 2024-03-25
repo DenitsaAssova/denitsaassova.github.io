@@ -72,7 +72,7 @@ The status of team selections and the votes for game modes are visible to all co
 	- Props utilize a third-person point of view (POV) and have the ability to switch between this view and an orbit camera. Both camera perspectives can be zoomed in and out as needed. In Round mode, Props can stun Hunters.
 
 #### Source:
-Build version of the game can be found under the following [link](https://denito10.itch.io/prop-clash).
+Build version of the game can be found at the following [link](https://denito10.itch.io/prop-clash).
 Since the project wasn't entirely developed by me, please reach out to me for further details.
 
 #### Trailer:
@@ -94,7 +94,7 @@ With only two days to complete the game, our team collaborated closely on nearly
 My primary responsibilities involved generating the environment and creating the tutorial.
 
 #### Source:
-Build version of the game can be found under the following [link](https://shayyn20.itch.io/gravity-overrider).
+Build version of the game can be found at the following [link](https://shayyn20.itch.io/gravity-overrider).
 Since the project wasn't entirely developed by me, please reach out to me for further details.
 
 
@@ -122,7 +122,7 @@ Additionally, it possesses the ability to summon a shield that provides protecti
 
 #### Source:
 The source code of the project can be accessed via the following [link](https://drive.google.com/file/d/1TtsZsHTA6P_689QgJsLTLyVcAz0i-vpI/view?usp=sharing).
-Build version of the game can be found under the following [link](https://shayyn20.itch.io/anubis-trial).
+Build version of the game can be found at the following [link](https://shayyn20.itch.io/anubis-trial).
 
 #### Trailer:
 Watch the trailer for "Anubis' Trial":[![link](/assets/images/anubistrial.jpg)](https://www.youtube.com/watch?v=p1tf53QCS6Q).
@@ -137,7 +137,7 @@ The theta parameters define the rotation of each joint in the body, allowing the
 SMPL is widely used in computer graphics, animation, and other fields where realistic human body representation is required. 
 
 #### Source:
-The project can be accessed in the following [repository](https://github.com/DenitsaAssova/SMPL).
+The project can be accessed via the following [repository](https://github.com/DenitsaAssova/SMPL).
 
 <!--#### Results:
 The images below illustrate several outcomes following adjustments to the beta and theta parameters.
