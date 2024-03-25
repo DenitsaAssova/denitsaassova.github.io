@@ -3,5 +3,5 @@ layout: page
 title: CV
 permalink: _pages/cv/
 ---
-
-<embed src="/assets/pdfs/cv.pdf" type="application/pdf" width="100%" height="600px">
+<a href="/assets/pdfs/cv.pdf" target="_blank">Tap to Open CV in New Window</a>
+<iframe src="/assets/pdfs/cv.pdf" width="100%" height="600px" scrolling="yes"></iframe>
