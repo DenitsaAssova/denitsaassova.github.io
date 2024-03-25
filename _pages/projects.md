@@ -22,7 +22,7 @@ counterparts performing the executed actions in the virtual environment.
 - GeoTravel utilizes the Oculus Quest 2 Head-Mounted Display (HMD) and Quest Link for connection to a PC.
 - External camera attached to the top of the headset is used for tracking the AV objects.
 - An Android smartphone is employed to establish a connection with the PC running GeoTravel, supporting interaction with the AV smartphone.
-- A custom-made microcontroller integrated with a non-working camera employs Bluetooth Low Energy (BLE) wireless communication to establish a connection with GeoTravel. It transmits detected button presses to the system.
+- A custom-made microcontroller integrated with a non-functional camera employs Bluetooth Low Energy (BLE) wireless communication to establish a connection with GeoTravel. It transmits detected button presses to the system.
 
 #### Software Setup: 
 - The project runs on Unity version 2021.3.15f1 and utilizes the Oculus XR Plugin version 3.2.3.
@@ -35,14 +35,14 @@ counterparts performing the executed actions in the virtual environment.
 #### AV Objects:
 - The virtual objects' position and rotation are determined by the estimated pose of their physical counterparts, obtained from the respective tracking method.
 - AV water bottle: I incorporated a simple 3D model of a water bottle into Unity and used a liquid shader to simulate water inside it. The virtual liquid follows the movement of the physical water bottle.
-- AV camera: Button presses of the non-working physical camera are transmitted to Unity, and the virtual counterpart of the camera snaps pictures of the virtual environment.
+- AV camera: Button presses from the non-functional physical camera are transmitted to Unity, triggering the virtual camera to capture pictures of the virtual environment.
 - AV smartphone: The physical Android smartphone runs an application similar to the one displayed on the virtual smartphone. When players press an icon on the physical smartphone, an event is sent to Unity, and the virtual smartphone reacts to it. 
-Similarly to the AV camera, the AV smartphone supports taking pictures inside the VE and also browsing through them inside a gallery.
+Similar to the AV camera, the AV smartphone supports taking pictures within the VE and also browsing through them inside a gallery.
 
 #### Videos:
-- To observe a part of the virtual environment from GeoTravel, which I worked on, along with the AV camera, please play the following [video](/assets/videos/AVCamera.mp4).
-- To see the AV smartphone in action, please play the following [video](/assets/videos/AVSmartphone.mp4).
-- To view the AV bottle, please play the following [video](/assets/videos/AVBottle.mp4).
+- To observe a part of the virtual environment from GeoTravel, which I worked on, along with the AV camera, please watch the following [video](/assets/videos/AVCamera.mp4).
+- To see the AV smartphone in action, please watch the following [video](/assets/videos/AVSmartphone.mp4).
+- To view the AV bottle, please watch the following [video](/assets/videos/AVBottle.mp4).
 
 #### Source:
 Since the project wasn't entirely developed by me, please reach out to me for further details.
