@@ -4,7 +4,7 @@ title: About Me
 permalink: _pages/about/
 ---
 
-<img src="/assets/images/cv_photo_oval.png" style="display: block; margin: 0 auto; width: 200px; height: 200px; border-radius: 50%;">
+<img src="/assets/images/cv_photo_oval.png" style="display: block; margin: 0 auto; border-radius: 50%;">
 
 Hi, I'm Denitsa, a recent graduate with a Master of Science in Informatics: Games Engineering from the [Technical University of Munich](https://www.tum.de/en/).
 
